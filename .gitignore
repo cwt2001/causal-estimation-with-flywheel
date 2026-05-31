@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+# Generated experiment outputs
+results/
+figures/
+tests/
+
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+.history/
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+desktop.ini

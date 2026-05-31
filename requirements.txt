@@ -1,0 +1,16 @@
+# Core numerical and data dependencies
+numpy==1.24.4
+pandas==2.0.3
+scipy==1.10.1
+networkx==3.1
+matplotlib==3.7.5
+tqdm==4.67.1
+
+# Community detection used by cluster randomization
+python-louvain==0.16
+igraph==0.11.8
+leidenalg==0.10.2
+
+# Optional Bayesian estimator dependencies
+pymc==5.6.1
+arviz==0.15.1
